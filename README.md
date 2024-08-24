@@ -1,32 +1,17 @@
-Hi there! 👋
-Full-Stack Developer (MERN Stack)
-I am Vimal Krishna Parasharam, a dedicated Full-Stack Developer skilled in building dynamic and responsive web applications using the MERN stack. My expertise lies in creating efficient, scalable, and user-friendly solutions that meet the needs of both clients and end-users.
+<h1 align="center">Hi 👋, I'm VIMAL KRISHNA PARASHARAM</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🚀 Skills & Technologies
-Frontend: React, Redux, HTML5, CSS3, JavaScript (ES6+), Bootstrap
-Backend: Node.js, Express.js, RESTful APIs
-Database: MongoDB, Mongoose, Firebase
-Testing: Jest, Unit Testing
-Version Control: Git, GitHub, GitLab
-Tools: Babel, NPM
-Cloud: AWS
-🛠 Projects
-Netflix Landing Page UI Clone:
-Domain: Web development | Tech stack used: HTML CSS JS
-Developed a visually captivating Netflix Landing Page UI project.Implemented responsive design principles for seamless viewing across devices.Utilized JavaScript to add dynamic elements, enhancing interactions and navigation.
-Blog Web Application:
-Domain: Web development | Tech stack used: NodeJS, ExpressJS, MongoDB
-Created a dynamic and interactive blog web application with user-friendly interface for seamless content creation, editing, and deletion. Assisted in designing and implementing CRUD (Create, Read, Update, Delete) functionalities for managing blog posts effectively. Developed RESTful API endpoints for efficient communication between the frontend and backend systems.
-Keeper Project:
-Domain: Web development | Tech stack used: ReactJS
-Created a dynamic Keeper project using React.js. Developed an intuitive user interface where users can easily add new posts by entering a title and text content enabling users to remove unwanted posts with a single click.
-Hospital Appointment Booking Website:
-Domain: Web development | Tech stack used: PHP, MySQL, Javascript
-Developed a comprehensive hospital appointment booking website that allows users to book appointments online with responsive and visually appealing user interface. Implemented server-side functionality using PHP to handle form submissions and process appointment bookings securely. Integrated MySQL database to store and manage user information and appointment details efficiently
-📚 Learning & Development
-Latest Courses: Completed Fullstack web development on Udemy, focusing on hooks, context API, and advanced state management in react.
-Certifications: Python essentials by cisco, AWS cloud essentials by AWS, Web develpopment HTML,CSS,JS coursera, Postman API certification expert by Postman, Java Basic and Problem solving by Hackerrank.
-🌟 Interests
-Open Source: Actively contributing to open-source projects.
-Tech Communities: Member of local JavaScript and React meetups, regular attendee of tech conferences and webinars.
-📫 Contacts
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalkrishna34&label=Profile%20views&color=0e75b6&style=flat" alt="vimalkrishna34" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimalkrishna34" alt="vimalkrishna34" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimalkrishna34&show_icons=true&locale=en&layout=compact" alt="vimalkrishna34" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalkrishna34&show_icons=true&locale=en" alt="vimalkrishna34" /></p>
